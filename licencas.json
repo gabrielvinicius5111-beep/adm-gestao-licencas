@@ -1,14 +1,9 @@
 {
-  "licencas": {
-    "ADM-CLIENTE-001": {
-      "cliente": "Cliente de exemplo",
+  "usuarios": {
+    "adm": {
+      "cliente": "Administrador",
       "status": "ativa",
-      "validade": "2026-07-19"
-    },
-    "ADM-CLIENTE-002": {
-      "cliente": "Outro cliente",
-      "status": "bloqueada",
-      "validade": "2026-12-31"
+      "validade": "2026-08-20"
     }
   }
 }
