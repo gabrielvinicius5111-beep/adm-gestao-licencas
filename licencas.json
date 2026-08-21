@@ -1,0 +1,14 @@
+{
+  "licencas": {
+    "ADM-CLIENTE-001": {
+      "cliente": "Cliente de exemplo",
+      "status": "ativa",
+      "validade": "2026-09-19"
+    },
+    "ADM-CLIENTE-002": {
+      "cliente": "Outro cliente",
+      "status": "bloqueada",
+      "validade": "2026-12-31"
+    }
+  }
+}
