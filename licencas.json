@@ -1,9 +1,12 @@
 {
-  "usuarios": {
-    "adm": {
-      "cliente": "Administrador",
-      "status": "ativa",
-      "validade": "2026-09-21"
-    }
+  "vinicius": {
+    "nome": "ADM ARTEFATOS",
+    "nivel": "ADMIN",
+    "status": "ativa",
+    "validade": "20/09/2026",
+    "senha_algoritmo": "pbkdf2_sha256",
+    "senha_iteracoes": 310000,
+    "senha_salt": "eT7TT7umAAKIuPqzGjRrjA==",
+    "senha_hash": "QFlOBTHMMjtUVu0jlYPiBXRA5t/mrWW8YiGTBpIA9uQ="
   }
 }
