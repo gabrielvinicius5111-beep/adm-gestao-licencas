@@ -2,7 +2,7 @@
   "usuarios": {
   "vinicius": {
     "nome": "ADM ARTEFATOS",
-    "nivel": "VENDEDOR",
+    "nivel": "ADMIN",
     "status": "ativa",
     "validade": "20/09/2026",
     "senha_algoritmo": "pbkdf2_sha256",
