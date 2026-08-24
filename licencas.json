@@ -1,4 +1,5 @@
 {
+  "usuarios": {
   "vinicius": {
     "nome": "ADM ARTEFATOS",
     "nivel": "ADMIN",
@@ -8,5 +9,6 @@
     "senha_iteracoes": 310000,
     "senha_salt": "eT7TT7umAAKIuPqzGjRrjA==",
     "senha_hash": "QFlOBTHMMjtUVu0jlYPiBXRA5t/mrWW8YiGTBpIA9uQ="
+  }
   }
 }
