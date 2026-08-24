@@ -4,7 +4,7 @@
     "nome": "ADM ARTEFATOS",
     "nivel": "ADMIN",
     "status": "ativa",
-    "validade": "20/09/2026",
+    "validade": "2026/09/20",
     "senha_algoritmo": "pbkdf2_sha256",
     "senha_iteracoes": 310000,
     "senha_salt": "eT7TT7umAAKIuPqzGjRrjA==",
